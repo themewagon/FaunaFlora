@@ -1,38 +1,57 @@
+# Fauna & Flora - Free Tailwind CSS SaaS HTML Website Template
+
+#### Preview
+
+- [Demo](https://themewagon.github.io/FaunaFlora/)
+
+#### Download
+
+- [Download from ThemeWagon](https://themewagon.com/themes/FaunaFlora/)
+
 ## 1. Getting Started
+
+#### Clone Repository
+
+```
+git clone https://github.com/themewagon/FaunaFlora.git
+```
 
 NOTE: npm commands overwrite the ./public directory.
 
-Project's source files are placed in ./src/ directory. 
-* ./src/assets - default static files (eg. image placeholders). You should replace them with your own files.
-* ./src/tailwind/ - Tailwind config file used to build the theme. Variables used in Theme Customizer are located in tailwind.config.js file.
+Project's source files are placed in ./src/ directory.
+
+- ./src/assets - default static files (eg. image placeholders). You should replace them with your own files.
+- ./src/tailwind/ - Tailwind config file used to build the theme. Variables used in Theme Customizer are located in tailwind.config.js file.
 
 All your pages (templates) are stored in separated .pug files
-* ./src/pug/*.pug 
+
+- ./src/pug/\*.pug
 
 ## 2. Installation
 
 ```
 # Install dependencies
-npm install 
+npm install
 
 # Run dev server with live preview (Browsersync)
 npm run watch
 
-# Or make a production build 
+# Or make a production build
 npm run build
 ```
 
 ## 3. Contact
 
-If you have have any questions, feel free to contact me:
+If you have have any questions, feel free to contact: support@themewagon.com
 
-support@pixelrocket.store
+## Author
 
-## 4. Learn Frontend Web Development
+```
+Design and code is completely written by Pixelrocket and development team.
+```
 
-Want to learn frontend web development so you can build templates like this one? Visit my site: https://www.pixelrocket.store for a range of frontend web development learning resources and courses.
+## License
 
-## 5. Credits & Special thanks
-
-Image placeholders from https://unsplash.com/
-Screenshot & Logo placeholders from https://www.figma.com/community
+- Design and Code is Copyright &copy; [pixelrocket](https://www.pixelrocket.store)
+- Licensed cover under [MIT]
+- Distributed by [ThemeWagon](https://themewagon.com)
