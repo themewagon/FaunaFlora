@@ -1,4 +1,4 @@
-# Fauna & Flora - Free Tailwind CSS SaaS HTML Website Template
+# Flora&Fauna - Free Tailwind CSS SaaS HTML Website Template
 
 #### Preview
 
