@@ -6,7 +6,7 @@
 
 #### Download
 
-- [Download from ThemeWagon](https://themewagon.com/themes/FaunaFlora/)
+- [Download from ThemeWagon](https://themewagon.com/themes/florafauna/)
 
 ## 1. Getting Started
 
@@ -23,7 +23,7 @@ Project's source files are placed in ./src/ directory.
 - ./src/assets - default static files (eg. image placeholders). You should replace them with your own files.
 - ./src/tailwind/ - Tailwind config file used to build the theme. Variables used in Theme Customizer are located in tailwind.config.js file.
 
-All your pages (templates) are stored in separated .pug files
+All your pages (templates) are stored in separate .pug files.
 
 - ./src/pug/\*.pug
 
@@ -42,16 +42,16 @@ npm run build
 
 ## 3. Contact
 
-If you have have any questions, feel free to contact: support@themewagon.com
+If you have any questions, feel free to contact: support@themewagon.com
 
 ## Author
 
 ```
-Design and code is completely written by Pixelrocket and development team.
+Design and code are completely written by PixelRocket's design and development team.
 ```
 
 ## License
 
-- Design and Code is Copyright &copy; [pixelrocket](https://www.pixelrocket.store)
-- Licensed cover under [MIT]
+- Design and Code is Copyright &copy; [PixelRocket](https://www.pixelrocket.store)
+- Licensed under [MIT]
 - Distributed by [ThemeWagon](https://themewagon.com)
